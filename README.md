@@ -1,4 +1,4 @@
-# Instagram Influencer Dashboard Project Using Tableau & Excel
+# Instagram Influencer Analytics Dashboard Using Tableau & Excel
 
 An interactive dashboard project analyzing Instagram influencer performance using engagement metrics, category trends, and regional insights.
 
