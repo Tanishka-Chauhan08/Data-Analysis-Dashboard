@@ -1,4 +1,4 @@
-# Instagram Influencer Insights: A Data-Driven Dashboard Project Using Tableau & Excel
+# Instagram Influencer Dashboard Project Using Tableau & Excel
 
 This project presents an interactive dashboard built using Tableau and Excel to analyze Instagram influencer performance. It is designed to assist brands and companies in identifying the most suitable influencers for promoting their products or services through data-driven insights.
 
