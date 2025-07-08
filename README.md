@@ -54,6 +54,6 @@ The primary goal of this project is to support marketing teams and decision-make
 - High follower count doesn’t always mean high engagement.
 - Category and regional analysis helps brands target more effectively.
 
-## Final Conclusion
+## Conclusion
 
 This dashboard demonstrates how structured data analysis can simplify the influencer selection process for brands. By visualizing key metrics such as engagement rate, category performance, and regional distribution, the tool enables marketing teams to make informed, strategic decisions. The project reinforces the value of data-driven influencer marketing and provides a scalable framework for evaluating digital partnerships across industries.
