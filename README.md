@@ -46,6 +46,19 @@ The primary goal of this project is to support marketing teams and decision-make
 ## Dashboard
 ![Instagram Dashboard](https://github.com/user-attachments/assets/7af23e0c-3934-439c-b020-f03d747baf92)
 
+## Questions (KPIs)
+- Which influencers have the highest engagement rates?
+
+- How does posting activity relate to engagement levels?
+
+- Which states have the highest concentration of top influencers?
+
+- How are followers distributed across different content categories?
+
+- Which categories show the strongest performance metrics?
+
+- Do niche influencers outperform high-follower accounts in engagement?
+
 ## Project Insights
 
 - Consistent posting correlates with higher engagement, not just volume.
